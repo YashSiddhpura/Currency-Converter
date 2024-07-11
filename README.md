@@ -5,3 +5,8 @@ Description: This code is for a simple currency converter application implemente
 Note: This program is made using basic C++ concepts.
 </p>
 <br>
+<p>
+Note: Run the above code in " CodeBlocks ".<br>
+      It working porperly without any errors.<br>
+</p>
+<br>      
